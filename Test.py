@@ -5,4 +5,5 @@ class vehicle:
 
 modelX=vehicle(240,18) 
 print(modelX.max_speed)
-print(modelX.mileage)      
+print(modelX.mileage)    
+modelY=vehicle(120,25)  
